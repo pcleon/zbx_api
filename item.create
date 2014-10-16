@@ -1,0 +1,17 @@
+{
+    "jsonrpc": "2.0",
+    "method": "item.create",
+    "params": {
+        "name": "$1 $2M",
+        "key_": "aaa.locate[xxxx,yyyy]",
+        "hostid": "10106",
+        "type": 2,
+        "value_type": 3,
+        "applications": [
+            "470"
+        ],
+        "delay": 0
+    },
+    "auth": "038e1d7b1735c6a5436ee9eae095879e",
+    "id": 1
+}
